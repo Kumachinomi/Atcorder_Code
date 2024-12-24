@@ -1,4 +1,4 @@
-#二分探索木
+#二分探索
 import bisect
 
 n,t = map(int,input().split())
